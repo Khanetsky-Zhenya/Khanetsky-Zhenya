@@ -23,5 +23,3 @@
 * Работа с flex [**Landing page construction company**](https://github.com/Khanetsky-Zhenya/Landing-page-construction-company)
 * Работа с grid [**statistic-page**](https://github.com/Khanetsky-Zhenya/statistic-page)
 * Работа по JavaScript [**Todo list**](https://github.com/Khanetsky-Zhenya/Todo-list-version_2.0)
-
-[![Visits Badge](https://badges.pufler.dev/visits/https://github.com/Khanetsky-Zhenya)](https:braydoncoyer.dev)
